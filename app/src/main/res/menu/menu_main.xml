@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+    android:id="@+id/homeMenuItemId"/>
+
+    <item android:title="US News"
+        android:id="@+id/usNewsMenuItemId"/>
+
+    <item   android:title="Politics"
+        android:id="@+id/politicsMenuItemId"/>
+
+    <item android:title="Live"
+        android:id="@+id/liveMenuItemId"/>
+</menu>
